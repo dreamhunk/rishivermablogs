@@ -5,7 +5,7 @@ module.exports = {
       name: `Rishi Verma`,
       summary: `who is learning Full-Stack Development.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blogs by Rishi Verma, a student aspiring to become a full-stack developer.`,
     siteUrl: `https://rishivermablogs.netlify.app/`,
     social: {
       twitter: `dream_hunk`,
