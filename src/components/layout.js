@@ -61,7 +61,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         {new Date().getFullYear()}
         {` `}
-        <a href="https://www.rishiverma.netlify.app">Rishi's Personal Site</a>
+        <a href="https://rishiverma.netlify.app">Rishi's Personal Site</a>
       </footer>
     </div>
   )
