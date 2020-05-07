@@ -1,9 +1,9 @@
 {
-  "name": "Rishi Verma Blogs",
+  "name": "gatsby-starter-blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Rishi Verma <rvkant2017@gmail.com>",
+  "author": "kyle matthews <matthews.kyle@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
